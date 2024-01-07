@@ -12,5 +12,10 @@ m1+w1
 object_print (w1)
 object_print(m1)
 
+filter ("volume", 2)
+filter ("volume", 0)
+filter ("density", 0)
+
+
 w2.state()
 print ()
